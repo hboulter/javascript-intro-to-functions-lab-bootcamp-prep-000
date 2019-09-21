@@ -28,6 +28,7 @@ function sayHiToGrandma(string) {
 
 
 function sayHiToGrandma(string) {
+  var gma = string
 string === "I love you, Grandma."
   return "I love you, too"
 }
